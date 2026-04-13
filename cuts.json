@@ -1,0 +1,17 @@
+{
+  "song": "TestTrack",
+  "duration": 30,
+  "bpm": 120,
+  "cuts": [
+    { "time": 1.0, "dir": "Up" },
+    { "time": 1.5, "dir": "Down" },
+    { "time": 2.0, "dir": "Left" },
+    { "time": 2.5, "dir": "Right" },
+    { "time": 3.0, "dir": "Up" },
+    { "time": 3.5, "dir": "Down" },
+    { "time": 4.0, "dir": "Left" },
+    { "time": 4.5, "dir": "Right" },
+    { "time": 5.0, "dir": "Up" },
+    { "time": 6.0, "dir": "Down" }
+  ]
+}
